@@ -2,7 +2,7 @@ public class Test {
 
   static void add(){
 
-    int a=45;
+    int a=5;
     int b=15;
     int result = a+b;
     System.out.println("The sum is " +result);
